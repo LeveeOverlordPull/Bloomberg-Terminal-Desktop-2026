@@ -24,12 +24,6 @@ Bloomberg Terminal is a professional financial information and analytics platfor
 
 ## System Requirements (Bloomberg Terminal)
 
-```
-```
-```
-```
-```
-```
 | Parameter  | Minimum |
 | ---------- | ------- |
 | OS         | Windows 10 or later |
@@ -37,9 +31,3 @@ Bloomberg Terminal is a professional financial information and analytics platfor
 | RAM        | 8 GB |
 | Disk Space | 10 GB available space |
 | Additional | Broadband internet connection; compatible display and Bloomberg-provided authentication/access |
-```
-```
-```
-```
-```
-```
